@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717045389827",
+    "project_id": "finalinspireme",
+    "storage_bucket": "finalinspireme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717045389827:android:063fb7ba30f8bc10cccc36",
+        "android_client_info": {
+          "package_name": "com.example.inspireme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717045389827-5p2n6vp3njub4lmgsfe914gpncgi7p08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvouXK2HVBgYaBxKKGYAeivaH9XvwA-7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717045389827-5p2n6vp3njub4lmgsfe914gpncgi7p08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

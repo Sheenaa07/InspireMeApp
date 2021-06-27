@@ -1,0 +1,440 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">InspireMe</string>
+
+    <!--English poem titles -->
+    <string name="en_title1">ME </string>
+    <string name="en_title2">WOULD IT BE OK?</string>
+    <string name="en_title3">LOVE IS PAINFUL</string>
+    <string name="en_title4">FREEDOM</string>
+    <string name="en_title5">RAIN</string>
+    <string name="en_title6">UNREACHABLE HAND</string>
+    <string name="en_title7">FAMILY MEANS EVERYTHING</string>
+    <string name="en_title8">A SIMPLE SMILE OF YOURS</string>
+    <string name="en_title9">IT’S ME, BEING CONFIDENT</string>
+    <string name="en_title10">DROWNING</string>
+    <string name="en_title11">I WANT TO BE</string>
+    <string name="en_title12">A POEM FOR MY SELF</string>
+
+    <!--English Poem -->
+    <string name="en_poem1"> "\n" I am who I am "\n"
+                            Who else would I be "\n"
+                            I won’t change for you "\n"
+                            So why change for me "\n" "\n"
+
+                            I won’t waste my life "\n"
+                            Being someone I can not be "\n"
+                            Because I’m not a fake "\n"
+                            Unwilling to break "\n\n"
+
+                            I will be the best version of me "\n"
+                            Willing to change what it shoud be "\n"
+                            Get used to what you see "\n"
+                            I’m going to be me. "\n"
+    </string>
+    <string name="en_poem2"> "\n" Would it be ok if I took some of your time? "\n"
+                            Would it be ok if I wrote you a rhyme? "\n"
+                            Would it be ok if I could make you smile? "\n"
+                            Would it be ok if I held you awhile? "\n\n"
+
+                            Would it be ok  if I opened my heart? "\n"
+                            Would it be ok if I took on the part? "\n"
+                            Would it be ok if I hugged you?. "\n"
+                            Would it be ok if I kissed you? "\n\n"
+
+                            Would it be alright to look in your eyes? "\n"
+                            Would it be alright to never tell lies? "\n"
+                            Well if you don’t mind "\n"
+                            Would it be alright to make you mine? "\n"
+    </string>
+    <string name="en_poem3"> "\n" Love is painful, although love is painful "\n"
+                                                        I repeat it like a fool, that\'s what I always do "\n"
+                                                        But pain is beautiful, it\'s same as him "\n"
+                                                        Hope turns into disappointment hope turns into despair "\n" "\n"
+
+                                                        The deeper love grows, the deeper the pain gets "\n"
+                                                        I make the mistake of thinking "\n"
+                                                        And hoping it\'ll be different this time "\n"
+                                                        In the end, how many years would have passed? "\n\n"
+
+                                                        There is no such thing as forever "\n"
+                                                        In the end, were we never meant to be? "\n"
+                                                        I am alone again, I thought I only barely found true love "\n"
+                                                        But in the end, it ends like this we become stranger  "\n"
+                                                        again. "\n\n"
+    </string>
+    <string name="en_poem4" tools:ignore="StringEscaping"> "\n" Woke up with different time "\n"
+                                                        The Birds Are Singing at the Breezy morning "\n"
+                                                        Windows open , and the sunlight\'s trespassing "\n"
+                                                        Waking up cuddling the cold wind "\n\n"
+
+
+                                                        The Shadows From The Morning sun, "\n"
+                                                        Touching The Pale skin. "\n"
+                                                        Ensuring there\'s no need for distress feeling "\n"
+                                                        Free from anything ,free from oneself "\n\n"
+
+                                                        Birds that Flying Around the blue ocean "\n"
+                                                        Watching the peaceful waves "\n"
+                                                        The freedom from the small cage. "\n"
+</string>
+    <string name="en_poem5" tools:ignore="StringEscaping"> "\n" Whenever rain gently falls on road. "\n"
+                                                        My heart is beating slowly because it\'s cold. "\n"
+                                                        Emotions are pouring, some feelings are untold. "\n"
+                                                        I should find warmth before I get old. "\n\n"
+
+                                                        Maybe a hot tea can make my mood happy. "\n"
+                                                        Rain teardrops sounds like mellifluous music to me. "\n"
+                                                        But deep inside my body\'s lonely. "\n"
+                                                        Flooded by that water drops, drowning in sea of anxiety "\n\n"
+</string>
+    <string name="en_poem6">  "\n" You are alone "\n"
+                             and asking for someone to help "\n"
+                            while covering up the words of your broken hopes. "\n\n"
+
+                            Those parts of the broken glass, scattered on the floor "\n"
+                            Next to the drops of your blood "\n"
+                            from the wound of your Hand "\n"
+                            Being clueless about the reason behind those Tears. "\n\n"
+
+                            Locked up on the Dark room, "\n"
+                            Eyes closed, shoulder down, without being zoom "\n"
+                            Everyone is silent when you needed them most "\n"
+                            When you reach them, unfortunately they did not find you "\n"
+                            lost. "\n\n"
+                            </string>
+    <string name="en_poem7"> "\n" God gave each of us a special family "\n"
+                            That we can call our own. "\n"
+                            A family that loves us for who we are "\n"
+                            So we would never feel alone. "\n\n"
+
+                            They may not like everything we do "\n"
+                            Or everything we say, "\n"
+                            But the beautiful thing about “family” "\n"
+                            Is that they love us anyway. "\n\n"
+
+                            Sometimes we feel rejected "\n"
+                            By people who do not care, "\n"
+                            But our hearts are warmed when remembering "\n"
+                            That our family is always there! "\n\n"
+</string>
+    <string name="en_poem8" tools:ignore="StringEscaping">
+                            "\n"This place in life that we are at now. "\n"
+                            Would have never thought that it would be allowed. "\n"
+                            True love was something always on my mind. "\n\n"
+
+                            Always there but never designed. "\n"
+                            All I have is good times and stories to share. "\n"
+                            In my heart I know you will never be there. "\n\n"
+
+                            There is never a good way to tell you goodbye. "\n"
+                            I keep asking myself, "Why, baby, why? "\n"
+                            I know my love is now walking away. "\n\n"
+
+                            I must let go because tomorrow brings another day."\n"
+                            A simple kiss, a great big smile. "\n"
+                            I\'m glad that I met you if only for a while. "\n\n"
+
+    </string>
+    <string name="en_poem9">
+                            "\n"Why would I to be someone else "\n"
+                            When I could be better by being myself "\n"
+                            Why would I pretend to be someone I\’m not "\n"
+                            When I have something they haven\’t got. "\n\n"
+
+                            I might not be the most beautiful, but I have beauty in full "\n"
+                            I might not be your first Choice, But I am a great Choice "\n"
+                            I am ME "\n"
+                            And that\’s cool cos I am good at being Myself and Me.  "\n\n"
+
+                            I was not born to insist myself "\n"
+                            To someone who doesn\’t want me "\n"
+                            So if you don\’t like me anymore "\n"
+                            Don\’t do just pretty fake script, don\’t even compliment. "\n\n"
+                            </string>
+    <string name="en_poem10">
+        "\n" They come in waves, "\n"
+        my feelings for you. "\n"
+        And not pretty whitecaps "\n"
+        dancing at my feet. "\n"
+        But when I least expect it. "\n\n"
+
+        When life seems to be "\n"
+        a quiet stream of continuity. "\n"
+        They come to disrupt. "\n"
+        So forceful they pull me under, "\n"
+        so that I am drowning and once again, "\n"
+        can\’t catch my breath. "\n\n"
+
+        It was a question I had worn on my lips for days , "\n"
+        like a loose "\n"
+        thread on my favourite sweater I couldn\'t "\n"
+        resist pulling , "\n"
+        despite knowing it could all unravel around me. "\n"
+
+    </string>
+    <string name="en_poem11">
+         "\n"  I want to be your favorite hello, "\n"
+            And I want to be your hardest goodbye. "\n"
+            I want to be the one who never makes you cry, "\n"
+            The one who puts that sparkle in your eye. "\n\n"
+
+            I want to be the one you trust, "\n"
+            And I want to be the one you can tell all your secrets "\n"
+            to. "\n"
+            I want to be the one always by your side, "\n"
+            The one you\'re stuck to like glue. "\n\n"
+
+            I want to be the one you truly love, "\n"
+            And I want to be the one who fills your heart. "\n"
+            I want to be the one who\'s always there to hold you in "\n"
+            the dark, "\n"
+            The one who loved you from the very start."\n\n"
+    </string>
+    <string name="en_poem12">
+        "\n"  Most of all I hope you heal "\n"
+        I hope you recover "\n"
+        From all the pain "\n"
+        The disappointments, losses, heartbreak "\n\n"
+
+        I hope you learn to love again "\n"
+        I hope you feel the sunshine on your skin "\n"
+        And remember that you are like the sun "\n"
+        No one can take that away from you "\n\n"
+
+        Do not lose your warmth "\n"
+        Your precious innocence "\n"
+        The world is too cruel already "\n"
+        We need love like yours around "\n\n"
+    </string>
+
+
+    <!--tagalog poem titles -->
+    <string name="ph_title1">ISANG MINUTO</string>
+    <string name="ph_title2">UBOS</string>
+    <string name="ph_title3">REYALIDAD</string>
+    <string name="ph_title4">TIWALA</string>
+    <string name="ph_title5">BAKIT KAYA?</string>
+    <string name="ph_title6">PAG IBIG NG ISANG TORPE</string>
+    <string name="ph_title7">BITUIN</string>
+    <string name="ph_title8">TULA</string>
+    <string name="ph_title9">IKAW AT AKO</string>
+    <string name="ph_title10">PATAWAD AKING KAIBIGAN</string>
+    <string name="ph_title11">MAGTIWALA</string>
+    <string name="ph_title12">PANIBAGO</string>
+
+
+    <!--Tagalog Poem -->
+    <string name="ph_poem1" tools:ignore="StringEscaping"> "\n" Binubuo ng animnapung segundo, "\n"
+                                                        Ganito kahaba ang bibigkasin kong tula, "\n"
+                                                        Sa sandaling ako\'y magsisimula, "\n"
+                                                        Maghanda ka sa pagwawakas. "\n\n"
+
+                                                        Dahil saglit lamang ito\'y matatapos na, "\n"
+                                                        Sa pagtingin ko sa orasan, "\n"
+                                                        Naalala ko ang mga sandaling lumisan, "\n"
+                                                        Pawang ala-ala na lamang mula sa nakaraan. "\n\n"
+
+                                                        Sapagkat ang oras ay hindi mahahawakan, "\n"
+                                                        Anumang pilit kong hatakin pabalik, "\n"
+                                                        Anumang pihit at pagpupumilit, "\n"
+                                                        Hindi ko na kayang maibabalik. "\n\n"
+
+                                                        Kahit ika\'y tumangis ng may pamamanhik, "\n"
+                                                        Ang luha ay parang orasan umagos na ng tuluyan, "\n"
+                                                        Papalayo dahil hindi napahalagahan, "\n"
+                                                        O kaya\'y di nagamit ng lubusan. "\n\n"
+
+                                                        Gamitin mo sa tama, "\n"
+                                                        Upang hindi ka magsisi sa huli, "\n"
+                                                        Ang tulang ito ay isang minuto na, "\n"
+                                                        At sabihin mong "Ako\'y huli na." "\n"
+                                                        Kaya\'t ito\'y isa na lamang ding ala-ala ng nakaraan, "\n"
+                                                        Na hindi mo na kailanman maibabalik pa. "\n\n"
+</string>
+    <string name="ph_poem2" tools:ignore="StringEscaping"> "\n" Nagmahal ng puspos "\n"
+                                                            Ngunit iyong inubos "\n"
+                                                            Pasensyang sayo\'y binuhos "\n"
+                                                            Sa mga araw na ika\'y minahal ng lubos. "\n\n"
+
+                                                            Naninibugho sa mga nakikita "\n"
+                                                            Na ang iba\'y sayo\'y may pagnanasa "\n"
+                                                            Dahilana\'ng di kapani-paniwala "\n"
+                                                            Sapagkat sayo\'y nawalan\'g tiwala "\n\n"
+
+                                                            Maling gawain mo\'y pinangatawanan "\n"
+                                                            Hanggang magkasawaan "\n"
+                                                            At ika\'y aking iniwan "\n"
+                                                            Sapagkat iyong pinabayaan. "\n\n"
+</string>
+    <string name="ph_poem3" tools:ignore="StringEscaping"> "\n"  Simulan natin ang kwento. "\n"
+                            Kwento ng mga pilipino, "\n"
+                            Kwento ng mga mapang husgang tao "\n"
+                            Kwentong dapat maisapubliko. "\n\n"
+
+                            Dito sa bansang ito, "\n"
+                            Sa bansang sinilangan ko, "\n"
+                            Madaming mga negatibong kumento, "\n"
+                            Mga kung ano anong reklamo. "\n\n"
+
+                            May gawin ka man o wala, "\n"
+                            Pag bubulungan ka parin ng mga tao. "\n"
+                            Tititigan ka mula ulo hanggang paa, "\n"
+                            Maninira na para bang kilalalang kilala ka. "\n\n"
+
+                            Pinagpapasa-pasahan, "\n"
+                            Mga kuro-kurong dagdag-bawas naman. "\n"
+                            Pinagkakaguluhan mga bagay na wala naman silang kinalaman. "\n"
+                            Walang sinasanto mapa kamag-anak man o kaibigan. "\n\n"
+
+                            Ang dami nang problema sa bansang ito "\n"
+                            Dadagdag pa ang mga negatibo ninyong payo. "\n"
+                            Magtataka pa ba ako? "\n"
+                            Oo nga naman, nasa Pinas nga pala ako. "\n\n"
+
+                            Ano ang punto sa paligsahan ng mga biktima ng mga bulong bulong? "\n"
+                            Ano ang patutunguhan ng mga atletang sarili ang ginagawang pansabong? "\n\n"
+
+                            Pipi ka ba at di mo masabi ang pawang katotohanan? "\n"
+                            O nag bubulag bulagan para hindi matawag na testigo ng kasalukuyan? "\n"
+                            Bingi bingihan, kunwari di narinig ang totoong usapan. "\n"
+                            Tamad tamaran, ayaw lang naman gawin ang kailangan. "\n\n"
+</string>
+    <string name="ph_poem4">"\n"  Sapat nga kaya o nararapat nga ba? "\n"
+    Tapat kang nakipag usap mata sa mata, puso sa puso "\n"
+    Bukas pati ang iyong diwa\'t kaluluwa "\n"
+    Ngunig totoo ba? "\n\n"
+
+    Minsan mo nang napagtanto "\n"
+    Na ang lahat ng iyong nakikita\'y "\n"
+    dapat mong mapakinggan "\n"
+    At ang minsang narinig ay laging nakikita. "\n\n"
+
+    Ngunit paano nga ba ang tiwala sa iyo\'y iasa "\n"
+    Kung ang sinasabi mo sa kanya ay tilawa sa sinasabi mo sa iba."\n\n"
+    </string>
+    <string name="ph_poem5">"\n" Bakit kaya.... "\n"
+    Dito sa mundong ibabaw iba-iba ang pagtingin? "\n"
+    May mga taong liligunin at meron ding babalewalain ka "\n"
+    May mga mayaman laging pinapansin
+    May mga mahirap laging nasasaktan ang kanilang damdamin "\n\n"
+
+    Bakit kaya.... "\n"
+    Kapag mayaman ka naman agad -agad aasikasuhin "\n"
+    Kapag mayaman laging uunahin "\n"
+    Kapag mayaman ka ikaw ang importante "\n"
+    Dahil ba ang mahirap ay walang kayamanan ? "\n\n"
+
+    Sana..... "\n"
+    Wag maging batayan ang estado ng tao sa buhay "\n"
+    Dahil tayo ay nabubuhay ng pantay-pantay lamang "\n"
+    Mahalin sila ay bigyan ng tamang pagtingin upang umunlad "\n"
+    Kagaya ng pagmamahal sa ating Ama sa langit na walang katulad "\n\n"
+    </string>
+    <string name="ph_poem6">
+        "\n"  Ako ay kabang-kaba "\n"
+        Tinig ko\'y nawawala pag dating saiyo sinta "\n"
+
+        Ika\'y kaharap ko na, "\n"
+        Kaba ng tidtid ko\'y lumalala; "\n"
+
+        Lintik! Ba\'t nahihiya at wala akong masabi? "\n"
+        Angas ko\'y nasaan na? "\n\n"
+
+        Habang papalayo ka..."\n\n"
+
+        Ang aking nadaramay, Masasabi ko pa kaya? "\n\n"
+    </string>
+    <string name="ph_poem7">"\n" Isa-isa kong sinungkit ang bituin sa langit "\n"
+            At saka isinulsi sa aking damit "\n"
+            Umaasang na kahit sa ilang saglit "\n"
+            Sa kinang ng bituin ikaw ay maakit. "\n\n"
+
+            Saiyong pagbabalik ako lalapit "\n"
+            Yayakapin ka ulit ng mahigpit "\n"
+            Di ka pakakawalan kahit sa pagidlip "\n"
+            Masunod lamang ang pusong sabik "\n\n"
+    </string>
+    <string name="ph_poem8">
+        "\n"  Hindi matapos tapos ang pagbuhos ng mga salita. "\n"
+        Kasabay ng mga ito ang pagbulwak ng aking nadarama. "\n"
+        Pagmamahal sa\'yo ang siyang tinta. "\n"
+        Ang tintang bumubuhay sa aking mga tula. "\n\n"
+
+        Hindi ko alam kung kailan ako titigil. "\n"
+        Siguro kapag di na kita mahal o kaya manhid na ako sa sakit. "\n"
+        Hindi ko nga alam kung titigil pa ba ako? "\n"
+        Hindi ko alam kung magsasawa ako sa\'yo at sa mga tulang ito. "\n\n"
+    </string>
+    <string name="ph_poem9">
+        "\n"  Ikaw at ako nagkatagpo "\n"
+	    nagkatagpo sa panahong hindi sigurado "\n"
+	    hindi sigurado kung tatagal ang salitang "\n"
+	    ikaw at ako.. "\n\n"
+
+	    Ngunit ako\'y susugal dahil alam ko "\n"
+	    alam kong mayroong ikaw at ako.. "\n\n"
+
+	    Magbago man ang mundo, "\n"
+	    madami mang dumaang bagyo "\n"
+	    paghiwalayin man tayo ng tao "\n"
+	    alalahanin mo, andito lang ako "\n"
+	    mananatili sayo "\n"
+	    mananatili dahil alam ko "\n"
+	    ang salitang ikaw at ako "\n"
+	    ay panghahawakan ko. "\n\n"
+    </string>
+    <string name="ph_poem10">
+        "\n"  Binigay mo saakin ang iyong tiwala "\n"
+        Tiwala na wag naman sanag mawala "\n"
+        Dahil sa isang pagkakamaling \'di maunawaan "\n\n"
+
+        Naging magkaibingan tayo ng totoo "\n"
+        Pagsasamahang sana nati\'y di magbabago "\n"
+        Dahil paghingi ko ng tawad ay totoo "\n\n"
+
+        Batid ko\'y munting tula ko\'y "\n"
+        Mapukaw Ang damdamin mo "\n\n"
+
+        At sana\'y mapatawad mo na ako! "\n\n"
+    </string>
+    <string name="ph_poem11">
+        "\n"  Alam ko, alam kong nahihirapan na tayo "\n"
+        nahihirapan sa patuloy na pagkalat ng COVID-19 na ito "\n"
+        nahihirapan kung paano babangon, kung paano haharap "\n"
+        sa panibagong bukas na may sapat na lakas "\n"
+        para ipagpatuloy pang mabuhay "\n\n"
+
+        Nahihirapan kung paano makakain ng tatlong beses sa isang araw "\n"
+        alam ko! alam kong nahihirapan na tayo pero "\n"
+        sabi nga nila HABANG MAY BUHAY MAY PAG ASA "\n\n"
+
+        Pagasang balang araw matatapos rin ito "\n"
+        na balang araw haharap tayo sa panibagong bukas na "\n"
+        may malawak "\n"
+        na ngiti para ipagpatuloy ang buhay na ating sinimulan, "\n"
+        na balang araw haharap tayo sa panginoon at sasabihing "\n"
+        THANKS GOD DAHIL HINDI MO KAMI BINABAYAAN kaya "\n"
+        magtiwala ka "\n"
+        magtiwala ka sa kaniya, magtiwala ka na sa bawat pagdilim ng "\n"
+        gabi may liwanag paring darating. "\n\n"
+    </string>
+    <string name="ph_poem12">
+        "\n"  Panibagong mundo "\n"
+        Panibagong tao "\n"
+        Para sa taong mamahalin ko "\n"
+        Maghihintay lang ako "\n\n"
+
+        Hindi ko mamadaliin "\n"
+        Kung talagang para sa akin "\n"
+        Maghihintay lang ako "\n"
+        Hihintayin ko ang pagdating mo "\n\n"
+
+        at sa paghihintay ko alam kong "\n"
+        magiging masaya ako "\n"
+        dahil alam ko "\n"
+        sa panibagong paghihintay  "\n"
+        mananatili na tayo. "\n\n"
+</string>
+
+
+</resources>
